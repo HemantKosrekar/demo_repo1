@@ -1,2 +1,3 @@
 # demo_repo1
 This is demo repository to learn git.
+Author - Hemant Kosrekar
